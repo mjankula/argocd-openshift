@@ -5,7 +5,7 @@ metadata:
   labels:
     app: bubble-animation
   name: bubble-animation
-  namespace: mjankula
+  namespace: mjankula-argo
 spec:
   replicas: 1
   selector:
